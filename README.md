@@ -1,5 +1,7 @@
 ## Boring Lecture2
+
 By **Rosemary Ojwang**
+
 A simple HTML webpage about a Boring Lecture
 
 ## Technologies Used
@@ -15,6 +17,7 @@ A HTML webpage to demonstrate the use of Divs to hold elements, and to which als
 3. Open [boring-lecture.html](boring-lecture.html) in your browser.
 
 ## License
+
 [MIT](https://opensource.org/licenses/MIT)
 
 Copyright (c) _2020__Rosemary Ojwang
