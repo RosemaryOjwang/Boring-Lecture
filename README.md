@@ -20,6 +20,6 @@ A HTML webpage to demonstrate the use of Divs to hold elements, and to which als
 
 [MIT](https://opensource.org/licenses/MIT)
 
-Copyright (c) _2020__Rosemary Ojwang
+Copyright (c) _2020_ _Rosemary Ojwang_
 
 
